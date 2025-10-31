@@ -1,0 +1,53 @@
+## 💡 **Project Overview**
+
+**Project Name:** Library Management System
+
+**Technologies:**
+
+* **Java** (can use **JavaFX** or **Swing** for GUI)
+* **JDBC** (for database connection)
+* **MySQL** or **SQLite** (for data storage)
+
+---
+
+## 🎯 **Main Features**
+
+### 📚 1. **Book Management**
+
+* Add, view, edit, and delete books
+* Columns:
+
+  * **ID**
+  * **Title**
+  * **Author**
+  * **Publisher**
+  * **Year**
+  * **Quantity**
+
+---
+
+### 👤 2. **Member Management**
+
+* Add, view, edit, and delete members
+* Columns:
+
+  * **ID**
+  * **Name**
+  * **Address**
+  * **Phone Number**
+
+---
+
+### 📖 3. **Book Borrowing & Returning**
+
+* Record when a book is borrowed and returned
+* Check the book’s availability status (available / borrowed)
+* Automatically calculate late fees *(optional)*
+
+---
+
+### 🔍 4. **Data Search**
+
+* Search books by **title** or **author**
+* Search members by **name** or **ID**
+
